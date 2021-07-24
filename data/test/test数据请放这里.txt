@@ -1,1 +1,6 @@
 请将测试数据放入这个文件夹中
+
+data文件夹是空的,里面有train和test两个文件夹, 请将对应的数据集分别放入train和test中
+data文件夹的压缩包下载地址
+链接：https://pan.baidu.com/s/1eAOHyN7hrVYS8TvyU_fRTw 
+提取码：pmx0

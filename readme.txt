@@ -23,7 +23,7 @@
 
   ③model文件夹中存放模型文件，其中resnet101-5d3b4d8f.pth为未经训练的原始模型，
   net_trained为训练好的模型，压缩包为训练出的准确率为85%和86%模型，可进行替换。
-  使用前应保证resnet101-5d3b4d8f.pth模型存放于
+  使用前应保证resnet101-5d3b4d8f.pth模型存放于model文件夹中
 
 4.使用方法：
   直接运行train.py文件即可对模型开始训练，训练后的模型储存于model/net_trained.pth;
@@ -31,3 +31,8 @@
   直接运行show.py文件，可将数据可视化；
   注意：运行train.py后，模型会重新保存，请将model文件夹内的85%.zip解压后，覆盖原
   net_trained.pth后，再运行test.py文件，防止模型改变后准确率改变
+  
+
+模型在百度网盘中,
+链接：https://pan.baidu.com/s/17_ROKVVLkxFKq5vijjouhg 
+提取码：fhr1

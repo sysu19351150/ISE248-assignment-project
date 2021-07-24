@@ -33,6 +33,12 @@
   net_trained.pth后，再运行test.py文件，防止模型改变后准确率改变
   
 
+
+data文件夹是空的,里面有train和test两个文件夹, 请将对应的数据集分别放入train和test中
+data文件夹的压缩包下载地址
+链接：https://pan.baidu.com/s/1eAOHyN7hrVYS8TvyU_fRTw 
+提取码：pmx0
+
 模型在百度网盘中,
 链接：https://pan.baidu.com/s/17_ROKVVLkxFKq5vijjouhg 
 提取码：fhr1
